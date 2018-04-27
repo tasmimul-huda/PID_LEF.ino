@@ -1,3 +1,9 @@
+/*
+Auther: Sayed Mohammed Tasmimul Huda
+Khulana Univarsity of Engineering & Technology
+ECE 2k16
+*/
+//
 #define LM1 30
 #define LM2 32
 #define RM1 34
